@@ -24,3 +24,12 @@ Link of:
 Activity 4 Individual Activity 4: Laravel Form Handling & Validation
 
 https://github.com/arnieafk/activity-4
+
+
+
+I already add you as a collaborator sa tanang repo sir...
+
+
+Naa pud sa image kada repo ang screenshot sa system sir...
+
+
