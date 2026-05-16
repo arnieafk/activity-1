@@ -1,7 +1,13 @@
-Ruiz, Arnie A. <------->
-BSIT-3B <------>
-Subject Name: System Integration and Architecture 2 <------>
-Activity 2 <------> Individual Activity: Laravel Mini System <------>
+Ruiz, Arnie A. 
+
+
+BSIT-3B 
+
+
+Subject Name: System Integration and Architecture 2 
+
+
+Activity 2 Individual Activity: Laravel Mini System 
 
 
 
